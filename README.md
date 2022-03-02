@@ -5,5 +5,5 @@ Compatible with Zen Cart 1.3.8-1.5.8.
 See files\includes\templates\shared\youtube\youtube_readme.txt
 for details.
 
-[youtube_readme.md](files/includes/templates/shared/youtube/youtube_readme.md)
+[youtube_readme.md](files/includes/templates/shared/youtube/youtube_readme.txt)
 
