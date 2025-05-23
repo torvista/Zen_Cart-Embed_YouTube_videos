@@ -1,13 +1,13 @@
 Zen Cart - Embed YouTube Videos
-Compatible with Zen Cart 1.3.8-1.5.8.
+Compatible with Zen Cart 1.3.8 onwards.
 
 https://github.com/torvista/Zen_Cart-Embed_YouTube_videos
 
 Overview 
 
-A tiny script is loaded on all pages that looks for a YouTube div.
-If it finds one, it loads another tiny script that creates a placeholder in each YouTube div..
-If the user clicks on the placeholder, the Youtube iframe is created ready to play.
+A tiny script is loaded on all pages, that looks for the existence of a div with a specific YouTube class.
+If it finds one, it loads another tiny script that creates a placeholder/image in each YouTube div.
+If the user clicks on the placeholder, the Youtube iframe is created, ready to play.
 The idea is that the initial page load is fast as very little is downloaded: it is downloaded on user-demand.
 
 Installation
